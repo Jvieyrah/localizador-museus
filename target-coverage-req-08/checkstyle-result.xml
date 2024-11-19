@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/model/Museum.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/model/Coordinate.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/controller/MuseumController.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/controller/CollectionTypeController.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/util/CoordinateUtil.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/util/MuseumLoader.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/util/ModelDtoConverter.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/MuseumFinderApplication.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/database/MuseumFakeDatabase.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/dto/MuseumDto.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/dto/MuseumCreationDto.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/dto/CollectionTypeCount.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/exception/MuseumNotFoundException.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/exception/InvalidCoordinateException.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/service/MuseumService.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/service/CollectionTypeService.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/service/MuseumServiceInterface.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/advice/GeneralControllerAdvice.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-localizador-de-museus/src/main/resources/application.properties">
+</file>
+</checkstyle>
